@@ -1,0 +1,101 @@
+10
+Larry4319
+Don Cangrejo4353
+Don Cangrejo1659
+Arenita1508
+Bob Toronja1121
+Patricio1876
+Don Cangrejo1662
+Bob Toronja1169
+Karen3815
+Karen8864
+Larry4319,Don Cangrejo4353,7
+Larry4319,Don Cangrejo1659,15
+Larry4319,Arenita1508,10
+Larry4319,Bob Toronja1121,9
+Larry4319,Patricio1876,6
+Larry4319,Don Cangrejo1662,10
+Larry4319,Bob Toronja1169,1
+Larry4319,Karen3815,10
+Larry4319,Karen8864,2
+Don Cangrejo4353,Larry4319,2
+Don Cangrejo4353,Don Cangrejo1659,13
+Don Cangrejo4353,Arenita1508,3
+Don Cangrejo4353,Bob Toronja1121,5
+Don Cangrejo4353,Patricio1876,11
+Don Cangrejo4353,Don Cangrejo1662,10
+Don Cangrejo4353,Bob Toronja1169,8
+Don Cangrejo4353,Karen3815,13
+Don Cangrejo4353,Karen8864,2
+Don Cangrejo1659,Larry4319,10
+Don Cangrejo1659,Don Cangrejo4353,6
+Don Cangrejo1659,Arenita1508,12
+Don Cangrejo1659,Bob Toronja1121,13
+Don Cangrejo1659,Patricio1876,8
+Don Cangrejo1659,Don Cangrejo1662,4
+Don Cangrejo1659,Bob Toronja1169,5
+Don Cangrejo1659,Karen3815,10
+Don Cangrejo1659,Karen8864,5
+Arenita1508,Larry4319,7
+Arenita1508,Don Cangrejo4353,15
+Arenita1508,Don Cangrejo1659,8
+Arenita1508,Bob Toronja1121,8
+Arenita1508,Patricio1876,14
+Arenita1508,Don Cangrejo1662,7
+Arenita1508,Bob Toronja1169,4
+Arenita1508,Karen3815,15
+Arenita1508,Karen8864,4
+Bob Toronja1121,Larry4319,4
+Bob Toronja1121,Don Cangrejo4353,15
+Bob Toronja1121,Don Cangrejo1659,13
+Bob Toronja1121,Arenita1508,13
+Bob Toronja1121,Patricio1876,9
+Bob Toronja1121,Don Cangrejo1662,6
+Bob Toronja1121,Bob Toronja1169,9
+Bob Toronja1121,Karen3815,13
+Bob Toronja1121,Karen8864,11
+Patricio1876,Larry4319,3
+Patricio1876,Don Cangrejo4353,5
+Patricio1876,Don Cangrejo1659,10
+Patricio1876,Arenita1508,2
+Patricio1876,Bob Toronja1121,11
+Patricio1876,Don Cangrejo1662,7
+Patricio1876,Bob Toronja1169,14
+Patricio1876,Karen3815,14
+Patricio1876,Karen8864,12
+Don Cangrejo1662,Larry4319,8
+Don Cangrejo1662,Don Cangrejo4353,13
+Don Cangrejo1662,Don Cangrejo1659,1
+Don Cangrejo1662,Arenita1508,6
+Don Cangrejo1662,Bob Toronja1121,12
+Don Cangrejo1662,Patricio1876,7
+Don Cangrejo1662,Bob Toronja1169,1
+Don Cangrejo1662,Karen3815,12
+Don Cangrejo1662,Karen8864,14
+Bob Toronja1169,Larry4319,2
+Bob Toronja1169,Don Cangrejo4353,1
+Bob Toronja1169,Don Cangrejo1659,12
+Bob Toronja1169,Arenita1508,10
+Bob Toronja1169,Bob Toronja1121,6
+Bob Toronja1169,Patricio1876,9
+Bob Toronja1169,Don Cangrejo1662,3
+Bob Toronja1169,Karen3815,13
+Bob Toronja1169,Karen8864,1
+Karen3815,Larry4319,13
+Karen3815,Don Cangrejo4353,8
+Karen3815,Don Cangrejo1659,2
+Karen3815,Arenita1508,7
+Karen3815,Bob Toronja1121,11
+Karen3815,Patricio1876,12
+Karen3815,Don Cangrejo1662,13
+Karen3815,Bob Toronja1169,14
+Karen3815,Karen8864,14
+Karen8864,Larry4319,11
+Karen8864,Don Cangrejo4353,12
+Karen8864,Don Cangrejo1659,15
+Karen8864,Arenita1508,1
+Karen8864,Bob Toronja1121,5
+Karen8864,Patricio1876,3
+Karen8864,Don Cangrejo1662,15
+Karen8864,Bob Toronja1169,12
+Karen8864,Karen3815,15
